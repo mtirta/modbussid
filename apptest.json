@@ -1,0 +1,57 @@
+{  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": ,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "link_more_app":"https://mtirta.github.io/modbussid/tcrprivacy.html"
+    
+    }
+    ],
+  "Guide":
+  [
+    {
+    "id":"1",
+     "url_guide":"https://aliendro.id/projek/roblox/guide1.html"
+    }
+    
+  ],"Wallpaper":
+  [
+    {
+     "image":"https://mfiles.alphacoders.com/745/thumb-1920-745099.jpg"
+    }
+    
+  ],
+  "Skin":
+  [
+    {
+      "name_skin":"Paladin",
+      "image":"https://tr.rbxcdn.com/69bbcd58a12a33c843c8709a592658a5/420/420/Avatar/Png",
+      "link":"https://www.roblox.com/bundles/338/Knights-of-Redcliff-Paladin"
+    }
+    
+  ],
+   "PartSkin":
+  [
+    
+    
+  ],
+
+   "FreeItem":
+  [
+   
+    
+  ]
+}
